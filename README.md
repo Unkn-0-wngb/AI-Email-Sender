@@ -203,7 +203,7 @@ Please open a **pull request** or create an **issue** for:
 ---
 
 ## 📝 License
-This project is licensed under the **Unkn-0-wngb License 1.0** — proprietary software.  
+This project is licensed under the **Unkn0wngb License 1.0** — proprietary software.  
 - Private modification is allowed.  
 - Redistribution, resale, or public sharing is **strictly prohibited**.  
 
@@ -241,5 +241,5 @@ See the full license in [LICENSE](LICENSE).
 - **Python Community** for open-source libraries  
 - **Contributors** who make this project better  
 
-**Developed by [Unkn-0-wngb](https://github.com/Unkn-0-wngb)**  
+**Developed by [Unkn0wngb](https://github.com/Unkn-0-wngb)**  
 > Streamlining professional communication with AI assistance 🚀
