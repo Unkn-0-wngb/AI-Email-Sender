@@ -1,8 +1,9 @@
+
 # AI-Powered Email Assistant 📧✨
 A sophisticated Python-based email management system with AI-powered content generation, contact management, and multi-account support.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License](https://img.shields.io/badge/License-Proprietary-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
 ---
@@ -202,7 +203,11 @@ Please open a **pull request** or create an **issue** for:
 ---
 
 ## 📝 License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the **Unkn-0-wngb License 1.0** — proprietary software.  
+- Private modification is allowed.  
+- Redistribution, resale, or public sharing is **strictly prohibited**.  
+
+See the full license in [LICENSE](LICENSE).  
 
 ---
 
